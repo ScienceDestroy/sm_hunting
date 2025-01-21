@@ -21,7 +21,7 @@ This script allowes player to hunt animals and collect rewards from them such as
 
 2 - **ensure sm_hunting** inside your config file
 
-3 - (optional) write **setr disableNativeAnimalSpawns true** inaide your config to prevent native animal spawn
+3 - (optional) write **setr disableNativeAnimalSpawns true** inside your config to prevent native animal spawn
 
 4 - drop items into your qb-core/shared/items.lua file
 
