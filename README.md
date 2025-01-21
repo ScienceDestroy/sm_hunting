@@ -17,13 +17,13 @@ This script allowes player to hunt animals and collect rewards from them such as
 
 <h2> How to install? </h2>
 
-1 - drop **sm_hunting** into your **/resource** folder <br>
+1 - drop ```sm_hunting``` into your ```/resource``` folder <br>
 
-2 - **ensure sm_hunting** inside your config file
+2 - ```ensure sm_hunting``` inside your config file
 
-3 - (optional) write **setr disableNativeAnimalSpawns true** inside your config to prevent native animal spawn
+3 - (optional) write ```setr disableNativeAnimalSpawns true``` inside your config to prevent native animal spawn
 
-4 - drop items into your qb-core/shared/items.lua file
+4 - drop items into your ```qb-core/shared/items.lua``` file
 
 5 - restart server and have fun!
 
