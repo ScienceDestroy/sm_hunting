@@ -3,6 +3,8 @@
 <h2> Hunting Script for QB Core </h2>
 This script allowes player to hunt animals and collect rewards from them such as meat, leather, feather and money.
 
+<a href="https://ibb.co/cSmyPC0W"><img src="https://i.ibb.co/v6tcbQpN/Desktop-4.png" alt="Desktop-4" border="0"></a>
+
 <h2> Features </h2>
 
 - ability to customize size of your hunting area
