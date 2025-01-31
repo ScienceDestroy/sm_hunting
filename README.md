@@ -27,11 +27,11 @@ This script allowes player to hunt animals and collect rewards from them such as
 
 5 - restart server and have fun!
 
+<h2>Need Help?</h2>
+OUR DISCORD LINK: https://discord.gg/rcP5GV3pAs
+
 
 <h2> Preview </h2>
 <img src="https://i.ibb.co/VgBQqKr/2025-01-21-120511.png"></img>
 <img src="https://i.ibb.co/pLn76YN/2025-01-21-122148.png"></img>
 <img src="https://i.ibb.co/hWwvB6F/2025-01-21-120558.png"></img>
-
-<h2>Need Help?</h2>
-OUR DISCORD LINK: https://discord.gg/rcP5GV3pAs
