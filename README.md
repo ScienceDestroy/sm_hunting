@@ -1,9 +1,9 @@
 <h1>SM Hunting</h1>
 
 <h2> Hunting Script for QB Core </h2>
-This script allowes player to hunt animals and collect rewards from them such as meat, leather, feather and money.
-
 <a href="https://ibb.co/cSmyPC0W"><img src="https://i.ibb.co/v6tcbQpN/Desktop-4.png" alt="Desktop-4" border="0"></a>
+
+This script allowes player to hunt animals and collect rewards from them such as meat, leather, feather and money.
 
 <h2> Features </h2>
 
